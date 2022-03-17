@@ -1,4 +1,4 @@
-A base using React,Next and Prisma for MVP 
+A base using React,Next and Prisma for MVP projects 
 
 ## Getting Started
 
